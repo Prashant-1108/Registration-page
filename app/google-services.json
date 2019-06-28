@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "462725860543",
+    "firebase_url": "https://loan-management-4f4d3.firebaseio.com",
+    "project_id": "loan-management-4f4d3",
+    "storage_bucket": "loan-management-4f4d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462725860543:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462725860543-rquh8k509sdsdun7btejioh15e7jk9nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTSbr4h-NApEA4vRozHL2WT7DpiyyrbNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462725860543-rquh8k509sdsdun7btejioh15e7jk9nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
